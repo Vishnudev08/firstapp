@@ -1,0 +1,18 @@
+button{
+    background: rgb(1, 29, 51);
+    border-color: transparent;
+    color: #fff;
+    cursor: pointer;
+    width:300px;
+    height: 50px;
+    margin: 16px auto;
+    font-size:16px;
+}
+button :hover{
+    background: #17c;
+
+}
+button :focus{
+    border-color: #05a;
+    
+}
